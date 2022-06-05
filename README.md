@@ -5,7 +5,7 @@ Discord https://discord.gg/KjHXgQvXfR
 
 ----------------------------------------------------------
 
-How to ad this to your server
+How to add this to your server
 
 Download the file
 
