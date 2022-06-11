@@ -3,9 +3,8 @@
 Join the Discord!
 Discord https://discord.gg/KjHXgQvXfR
 
-----------------------------------------------------------
-
-How to add this to your server
+--------------------------------------------------------
+## Installation guide
 
 Download the file
 
