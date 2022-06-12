@@ -16,7 +16,7 @@ start Carcommand
 
 the command is 
 
-/car ...                                                        
+/car (name of the car)                                                      
 /dv
 
 on the dots must the car name
