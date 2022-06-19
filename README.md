@@ -14,7 +14,6 @@ and in your serfer.cfg
 
 start Carcommand
 
-the command is 
 
 /car (name of the car)                                                      
 /dv
