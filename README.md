@@ -18,6 +18,4 @@ start Carcommand
 /car (name of the car)                                                      
 /dv
 
-on the dots must the car name
-
 good luck!
