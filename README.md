@@ -15,7 +15,7 @@ and in your serfer.cfg
 start Carcommand
 
 
-/car (r)                                                      
+/car (carname)                                                      
 /dv
 
 good luck!
