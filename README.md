@@ -15,7 +15,7 @@ and in your serfer.cfg
 start Carcommand
 
 
-/car (name of the car)                                                      
+/car (r)                                                      
 /dv
 
 good luck!
