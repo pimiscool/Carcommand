@@ -9,7 +9,7 @@ Discord https://discord.gg/KjHXgQvXfR
 
 Download the file
 
-set the file in your server
+set the file in your resource folder
 and in your serfer.cfg
 
 start Carcommand
