@@ -1,7 +1,7 @@
 # Carcommand
 
 Discord: Pim#7754       
-Join the Discord!
+Join the Discord!                                                                    
 Discord https://discord.gg/KjHXgQvXfR
 
 --------------------------------------------------------
