@@ -2,7 +2,7 @@
 
 Discord: Pim#7754       
 Join the Discord!
-Discord https://discord.gg/KjHXgQvXfR
+Discord https://discord.gg/KjHXgQvXf
 
 --------------------------------------------------------
 ## Installation guide
