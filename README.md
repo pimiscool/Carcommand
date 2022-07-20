@@ -13,7 +13,6 @@ and in your serfer.cfg
 
 start Carcommand
 
-
 /car (carname)                                                      
 /dv
 
