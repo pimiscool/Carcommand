@@ -7,7 +7,7 @@ Discord https://discord.gg/KjHXgQvXfR
 --------------------------------------------------------
 ## Installation guide
 
-Download the file       
+Download the file     
 set the file in your resource folder
 and in your serfer.cfg
 
